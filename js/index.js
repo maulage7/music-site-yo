@@ -1,7 +1,2 @@
-alert("Welcome!
-      <br>Hoşgeldiniz
-      <br>Bienvenido
-      <br>добре дошли
-      <br>欢迎
-      <br>Sveiki
+alert("Welcome!/nHoşgeldiniz/nBienvenido/nдобре дошли/n欢迎/nSveiki
       ");
